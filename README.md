@@ -55,7 +55,7 @@ Certifique-se de ter o **Node.js** instalado na sua máquina.
    ```bash
    https://github.com/ribbeiroana/scroll_react.git
    ```
-2. No terminal execute o comando:
+2. No terminal execute os comandos:
 
  ```bash
    npm install
